@@ -1,0 +1,39 @@
+
+{
+    "1": "wsymbol_0001_sunny.png",
+    "2": "wsymbol_0002_sunny_intervals.png",
+    "3": "wsymbol_0043_mostly_cloudy.png",
+    "4": "wsymbol_0003_white_cloud.png",
+    "5": "wsymbol_0018_cloudy_with_heavy_rain.png",
+    "6": "wsymbol_0021_cloudy_with_sleet.png",
+    "7": "wsymbol_0020_cloudy_with_heavy_snow.png",
+    "8": "wsymbol_0009_light_rain_showers.png",
+    "9": "wsymbol_0011_light_snow_showers.png",
+    "10": "wsymbol_0013_sleet_showers.png",
+    "11": "wsymbol_0006_mist.png",
+    "12": "wsymbol_0007_fog.png",
+    "13": "wsymbol_0050_freezing_rain.png",
+    "14": "wsymbol_0024_thunderstorms.png",
+    "15": "wsymbol_0048_drizzle.png",
+    "16": "wsymbol_0056_dust_sand.png",
+    
+    "101": "wsymbol_0008_clear_sky_night.png",
+    "102": "wsymbol_0041_partly_cloudy_night.png",
+    "103": "wsymbol_0044_mostly_cloudy_night.png",
+    "104": "wsymbol_0042_cloudy_night.png",
+    "105": "wsymbol_0034_cloudy_with_heavy_rain_night.png",
+    "106": "wsymbol_0037_cloudy_with_sleet_night.png",
+    "107": "wsymbol_0036_cloudy_with_heavy_snow_night.png",
+    "108": "wsymbol_0025_light_rain_showers_night.png",
+    "109": "wsymbol_0027_light_snow_showers_night.png",
+    "110": "wsymbol_0029_sleet_showers_night.png",
+    "111": "wsymbol_0063_mist_night.png",
+    "112": "wsymbol_0064_fog_night.png",
+    "113": "wsymbol_0068_freezing_rain_night.png",
+    "114": "wsymbol_0040_thunderstorms_night.png",
+    "115": "wsymbol_0066_drizzle_night.png",
+    "116": "wsymbol_0074_dust_sand_night.png",
+
+    "0": "wsymbol_0999_unknown.png"
+    
+}

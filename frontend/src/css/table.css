@@ -1,0 +1,40 @@
+td {
+    @apply border-none text-white bg-backgrounds-table p-1 font-bold px-10;
+}
+
+tr {
+    @apply border-b border-gray-200 cursor-pointer;
+}
+
+tr:hover td {
+    @apply bg-[#366991] text-white;
+}
+
+tr:last-child {
+    @apply border-none;
+}
+
+tr:last-child td:first-child {
+    @apply rounded-bl-xl;
+}
+
+tr:last-child td:last-child {
+    @apply rounded-br-xl;
+}
+
+tr:first-child td:first-child {
+    @apply rounded-tl-xl;
+}
+
+tr:first-child td:last-child {
+    @apply rounded-tr-xl;
+}
+
+
+.btn-add{
+    @apply text-white bg-secondary hover:bg-button-hover font-medium rounded-lg p-3.5 text-center inline-flex items-center mr-2 gap-x-2;
+}
+
+.btn-paginate{
+    @apply text-white bg-secondary hover:bg-button-hover font-medium rounded-full p-3 text-center inline-flex items-center mr-2 disabled:bg-button-hover disabled:scale-95 disabled:cursor-not-allowed;
+}
